@@ -75,7 +75,7 @@ PERSONAL PORTFOLIO
 # 🌐 Personal Portfolio Website
 
 Welcome to my **Personal Portfolio Website**!  
-This project showcases my skills, experience, and projects in a simple and professional way.  
+  
 
 ---
 
